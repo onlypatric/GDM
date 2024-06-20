@@ -1,0 +1,1 @@
+pyinstaller -F --icon="icon.ico" GrowDM.py --console --hidden-import="Style" --collect-data sv_ttk --collect-data Style
